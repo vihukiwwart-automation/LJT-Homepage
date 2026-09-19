@@ -11,4 +11,4 @@ citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxia
 
 **First author.**
 
-We investigate the perception bottleneck of vision-language models (VLMs) for chart understanding. A GitHub code repository is available: [Vision4Chart](https://github.com/Vicent0205/Vision4Chart).
+We investigate the perception bottleneck of vision-language models (VLMs) for chart understanding. A GitHub code repository is available: Vision4Chart.
