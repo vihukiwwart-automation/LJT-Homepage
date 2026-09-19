@@ -11,4 +11,4 @@ citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the U
 
 **First author.**
 
-We identify a universal truthfulness hyperplane inside large language models, relating to LLM truthfulness and interpretability. A GitHub code repository is available: [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane).
+We identify a universal truthfulness hyperplane inside large language models, relating to LLM truthfulness and interpretability. A GitHub code repository is available: Universal_Truthfulness_Hyperplane.
