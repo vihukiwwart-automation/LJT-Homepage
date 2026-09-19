@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu (刘俊腾), a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). I received my B.Eng. degree from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I received my B.Eng. degree from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
 
 My research focuses on **natural language processing** and **machine learning**. My research interests include:
 
@@ -57,7 +57,7 @@ Publications
 
 Contact
 ======
-- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **Email:** jliugi@connect.ust.hk
 - **GitHub:** [Vicent0205](https://github.com/Vicent0205)
 - **Google Scholar:** [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** [@junteng88716710](https://twitter.com/junteng88716710)
+- **X (Twitter):** @junteng88716710
